@@ -13,10 +13,10 @@ const Preprocessing = () => {
         <div className="header-content">Seafood exporters from India</div>
         <div className="social-icons">
         
-          <a href="https://www.facebook.com">
+         <a href="https://www.facebook.com/profile.php?id=100094101189736">
             <i className="fab fa-facebook-f social-icon"></i>
           </a>
-          <a href="https://www.instagram.com">
+          <a href="https://www.instagram.com/varsha_farmer_sea_food/">
             <i className="fab fa-instagram social-icon"></i>
           </a>
           
@@ -162,13 +162,13 @@ const Preprocessing = () => {
           <span>Get connected with us on social networks:</span>
         </div>
        
-         <div> <a href="https://www.facebook.com" className="text-white me-4 , vf" >
+         <div> <a href="https://www.facebook.com/profile.php?id=100094101189736" className="text-white me-4 , vf" >
             <i className="fab fa-facebook-f"></i>
           </a>
          
          
          
-          <a href="https://www.instagram.com" className="text-white me-4">
+          <a href="https://www.instagram.com/varsha_farmer_sea_food/" className="text-white me-4">
             <i className="fab fa-instagram"></i>
           </a>
          
