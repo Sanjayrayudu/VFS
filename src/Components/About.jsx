@@ -320,7 +320,7 @@ Fish - tilapia, pangus basa & Vietnam white basa fillet also available
               <p><i className="fas fa-home mr-3"></i> 8-3, Road No-6, Vakalpudi ,Kakinada </p>
               <p><i className="fas fa-envelope mr-3"></i> vfseafoods@gmail.com</p>
               <p><i className="fas fa-phone mr-3"></i> + 91 8790432054</p>
-              <p><i className="fas fa-phone mr-3"></i> + 91 7995236091 (Marketing : Mahesh[Hyderabad])</p>
+              <p><i className="fas fa-phone mr-3"></i> + 91 7995236091 ( Marketing : Mahesh[HYD] )</p>
             </div>
             
           </div>
