@@ -129,7 +129,7 @@ const Ice = () => {
     <div class="boxp">
       <div class="boxps-content">
         <h4>SUPPLIERS FROM THE BAY OF BENGAL</h4>
-        <p>We are one of the largest suppliers from the Bay of Bengal, specifically from Kakinada, Uppada , chirala & Andaman Islands.</p>
+        <p>We are one of the largest suppliers from the Bay of Bengal, specifically from Kakinada, Uppada , Vizag, chirala & Andaman Islands.</p>
     </div>
   </div>
   </div>
