@@ -503,6 +503,12 @@ header {
   content: "\f16d";
   margin-left: -30px;
 }
+      .box p{
+    align-content: baseline;
+    font-size: 16px;
+    width: 330px;
+    margin-left: 8px;
+  }
 .faf{
   margin-left: 48px;
     width: 350px;
@@ -516,7 +522,8 @@ header {
     margin-top: 21px;
 }
 .matter {
-  margin: 2px;
+  width: 330px;
+  margin-left: 8px;
   text-align: justify;
   margin-top: 20px;
 }
