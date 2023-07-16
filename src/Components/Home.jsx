@@ -163,11 +163,11 @@ const Home = () => {
           <Link to="/Cephalods" onClick={scrollToTop}><button style={{backgroundColor:"darkseagreen"}}>Learn More</button></Link>
         </div>
       </div>
-      <div id="slide2" className="carousel-slide" ref={(ref) => (slidesRef.current[1] = ref)}>
-      <img className="slide-image" src="./Assets/Silver Pomfret.jpeg" alt="Slide 1" style={{ width: "1550px"}} />
+        <div id="slide4" className="carousel-slide" ref={(ref) => (slidesRef.current[3] = ref)}>
+        <img className="slide-image" src="./Assets/Frozen Prawn.webp" alt="Slide 4" style={{ width: "1550px"}} />
         <div className="slide-content">
-          <h2>White Pomfret</h2>
-          <Link to="/Fish" onClick={scrollToTop}><button style={{backgroundColor:"darkseagreen"}}>Learn More</button></Link>
+          <h2>Frozen Foods</h2>
+          <Link to="/Crust" onClick={scrollToTop}><button style={{backgroundColor:"darkseagreen"}}>Learn More</button></Link>
         </div>
       </div>
       <div id="slide3" className="carousel-slide" ref={(ref) => (slidesRef.current[2] = ref)}>
@@ -177,17 +177,15 @@ const Home = () => {
           <Link to="/Mollus" onClick={scrollToTop}><button style={{backgroundColor:"darkseagreen"}}>Learn More</button></Link>
         </div>
       </div>
-      <div id="slide4" className="carousel-slide" ref={(ref) => (slidesRef.current[3] = ref)}>
-        <img className="slide-image" src="./Assets/Frozen Prawn.webp" alt="Slide 4" style={{ width: "1550px"}} />
+    
+    <div id="slide2" className="carousel-slide" ref={(ref) => (slidesRef.current[1] = ref)}>
+      <img className="slide-image" src="./Assets/Silver Pomfret.jpeg" alt="Slide 1" style={{ width: "1550px"}} />
         <div className="slide-content">
-          <h2>Frozen Foods</h2>
-          <Link to="/Crust" onClick={scrollToTop}><button style={{backgroundColor:"darkseagreen"}}>Learn More</button></Link>
+          <h2>White Pomfret</h2>
+          <Link to="/Fish" onClick={scrollToTop}><button style={{backgroundColor:"darkseagreen"}}>Learn More</button></Link>
         </div>
       </div>
 
-    {/* <div classNameName="carousel-slide" ref={(ref) => (slides.current[0] = ref)}></div>
-      <div classNameName="carousel-slide" ref={(ref) => (slides.current[1] = ref)}></div>
-      <div classNameName="carousel-slide" ref={(ref) => (slides.current[2] = ref)}></div> */}
       <div className="carousel-arrow carousel-arrow-left" onClick={prevSlide}>
         &#8249;
       </div>
@@ -217,7 +215,7 @@ const Home = () => {
     <img src="./Assets/f1.jpg" alt="Image"/>
   </div>
   <div className="box">
-     <p><b>VARSHA FARMERS SEAFOOD,</b> We travel each and every day to the sea and catch the fish from the Bay of Bengal. We supply wide range of fish to our customers with good quality and freshness. We take care every step to assure the highest levels of freshness and hygiene. We practice quality by Organoleptic checking tools like., Appearance, texture, smell for checking freshness. We are supplying seafood to Kakinada,Uppada,Vizag,Chirala,Andaman and Nicoboar.</p>
+     <p><b>VARSHA FARMERS SEAFOOD,</b> We travel each and every day to the sea and catch the fish from the Bay of Bengal. We supply wide range of fish to our customers with good quality and freshness. We take care every step to assure the highest levels of freshness and hygiene. We practice quality by Organoleptic checking tools like., Appearance, texture, smell for checking freshness. We are supplying seafood from Kakinada,Uppada,Vizag,Chirala,Andaman and Nicoboar.</p>
      <p>Here are the top 5 benefits of boosting your seafood intake, according to Gans</p>
      <p> <b>1.</b>  Seafood Can Prevent and Reduce Symptoms of Depression
 “Studies have shown that people who regularly eat fish are 20 percent less likely than their peers to have depression,” says Gans. This is thanks to seafood’s anti-inflammatory properties—a result of its high amount of DHA and EPA omega-3 fatty acids—and its ability to promote serotonin production and absorption.</p>
