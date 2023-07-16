@@ -170,19 +170,21 @@ const Home = () => {
           <Link to="/Crust" onClick={scrollToTop}><button style={{backgroundColor:"darkseagreen"}}>Learn More</button></Link>
         </div>
       </div>
-      <div id="slide3" className="carousel-slide" ref={(ref) => (slidesRef.current[2] = ref)}>
-        <img className="slide-image" style={{height : "633px", width: "1550px"}}src="./Assets/Crab.jpg" alt="Slide 3" />
-        <div className="slide-content">
-          <h2>Crabs & Lobster</h2>
-          <Link to="/Mollus" onClick={scrollToTop}><button style={{backgroundColor:"darkseagreen"}}>Learn More</button></Link>
-        </div>
-      </div>
+     
     
     <div id="slide2" className="carousel-slide" ref={(ref) => (slidesRef.current[1] = ref)}>
       <img className="slide-image" src="./Assets/Silver Pomfret.jpeg" alt="Slide 1" style={{ width: "1550px"}} />
         <div className="slide-content">
           <h2>White Pomfret</h2>
           <Link to="/Fish" onClick={scrollToTop}><button style={{backgroundColor:"darkseagreen"}}>Learn More</button></Link>
+        </div>
+      </div>
+
+     <div id="slide3" className="carousel-slide" ref={(ref) => (slidesRef.current[2] = ref)}>
+        <img className="slide-image" style={{height : "633px", width: "1550px"}}src="./Assets/Crab.jpg" alt="Slide 3" />
+        <div className="slide-content">
+          <h2>Crabs & Lobster</h2>
+          <Link to="/Mollus" onClick={scrollToTop}><button style={{backgroundColor:"darkseagreen"}}>Learn More</button></Link>
         </div>
       </div>
 
