@@ -124,7 +124,7 @@ const About = () => {
   <h3 className ="janjs" >About Us</h3>
   
   <div class="about , jsnndk">
-  <p><b>VARSHA FARMERS SEAFOOD,</b> We travel each and every day to the sea and catch the fish from the Bay of Bengal. We supply wide range of fish to our customers with good quality and freshness. We take care every step to assure the highest levels of freshness and hygiene. We practice quality by Organoleptic checking tools like., Appearance, texture, smell for checking freshness. We are supplying seafood to Kakinada,Uppada,Vizag,Chirala,Andaman & Nicoboar.</p>
+  <p><b>VARSHA FARMERS SEAFOOD,</b> We travel each and every day to the sea and catch the fish from the Bay of Bengal. We supply wide range of fish to our customers with good quality and freshness. We take care every step to assure the highest levels of freshness and hygiene. We practice quality by Organoleptic checking tools like., Appearance, texture, smell for checking freshness. We are supplying seafood from Kakinada,Uppada,Vizag,Chirala,Andaman & Nicoboar.</p>
      <p>Here are the top 5 benefits of boosting your seafood intake, according to Gans</p>
      <p> <b>1.</b>  Seafood Can Prevent and Reduce Symptoms of Depression
 “Studies have shown that people who regularly eat fish are 20 percent less likely than their peers to have depression,” says Gans. This is thanks to seafood’s anti-inflammatory properties—a result of its high amount of DHA and EPA omega-3 fatty acids—and its ability to promote serotonin production and absorption.</p>
