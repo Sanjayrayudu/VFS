@@ -354,8 +354,7 @@ const Fish = () => {
              <p><i className="fas fa-home mr-3"></i> 8-3, Road No-6, Vakalpudi ,Kakinada </p>
              <p><i className="fas fa-envelope mr-3"></i> vfseafoods@gmail.com</p>
             <h6 className="text-uppercase fw-bold">Marketing</h6>
-                   <p><i className="fas fa-phone mr-3"></i> + 91 9912907822 (Mahesh[Hyderabad] )</p>
-              <p><i className="fas fa-phone mr-3"></i> + 91 7995236091 (Rajesh[Delhi&Mumbai] )</p>
+                   <p><i className="fas fa-phone mr-3"></i> + 91 9182261007 (A Prasanna[Hyderabad] )</p>
            </div>
            
          </div>
